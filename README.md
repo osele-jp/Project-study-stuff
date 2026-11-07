@@ -1,4 +1,4 @@
-# Math Research Study
+# AI Research Study
 
 ## Firebase setup
 
